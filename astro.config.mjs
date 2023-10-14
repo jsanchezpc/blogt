@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://pages.github.com/jsanchezpc',
-	base: '/blogt',
+	site: 'https://jsanchezpc.github.io/',
+	// base: '',
 	integrations: [mdx(), sitemap()],
 });
