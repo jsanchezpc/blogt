@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'kkissta';
 export const SITE_DESCRIPTION = '<Dev del="futuro" />';
-export const SITE_TWITTER = 'https://twitter.com/kkissta_shop'
+export const SITE_TWITTER = 'https://twitter.com/kkissta_'
