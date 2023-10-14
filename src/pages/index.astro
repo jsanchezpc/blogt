@@ -1,0 +1,29 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<h1>🐱‍👤 Bienvenido</h1>
+			<p>
+				Bienvenido al blog oficial de <strong>kkissta</strong>, un
+				espacio donde puedes encontrar novedades y recursos relacionados
+				con la tecnología y el entretenimiento!
+			</p>
+			<p>
+				Cualquier duda o idea que tengas para mis posts, estaré
+				encantado de leerte en Twitter! (O X, como quieras llamarlo...)
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
