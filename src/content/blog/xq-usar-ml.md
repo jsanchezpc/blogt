@@ -2,7 +2,7 @@
 title: '¿Qué es y por qué usar Machine Learning?'
 description: 'Exploraremos por qué el Machine Learning es una herramienta poderosa.'
 pubDate: 'Oct 13 2023'
-heroImage: '/blogt/blog-placeholder-1.jpg'
+heroImage: '/blog-placeholder-1.jpg'
 ---
 
 El **Machine Learning** es una disciplina de la inteligencia artificial que ha transformado la forma en que interactuamos con la tecnología. En este artículo, exploraremos qué es el Machine Learning y por qué es tan importante en la actualidad.
