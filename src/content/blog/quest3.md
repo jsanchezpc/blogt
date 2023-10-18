@@ -5,7 +5,7 @@ pubDate: 'Oct 18 2023'
 heroImage: 'https://res.cloudinary.com/ddrdgau1e/image/upload/f_auto,q_auto/v1/kkissta/u6dimj0htxzx9vreok5k'
 ---
 
-Las nuevas Meta Quest 3 son unas gafas de realidad mixta, que combinan la Realidad Virtual (VR) y la Realidad Aumentada (AR). Con ellas, se pueden dar muchos usos, tanto para el ocio como para el trabajo. 
+Las nuevas Meta Quest 3 son unas gafas de realidad mixta, que combinan la Realidad Virtual (VR) y la Realidad Aumentada (AR). 
 
 Con la salida del nuevo modelo de gafas de Meta, se han empezado a ver los usos que le da la gente a estas gafas, y el resultado es espectacular. Desde desarrolladores creando portales que te teletransportan a multiversos diferentes hasta gente que lo usa para seguir recetas mientras cocina. 
 
