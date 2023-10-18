@@ -1,5 +1,5 @@
 ---
-title: 'Top Usos para las nuevas Meta Quest 3'
+title: 'Meta Quest 3: Abriendo la Puerta a la Realidad Mixta'
 description: '¿Cuáles son las posibles aplicaciones de las nuevas Meta Quest 3?'
 pubDate: 'Oct 18 2023'
 heroImage: 'https://res.cloudinary.com/ddrdgau1e/image/upload/f_auto,q_auto/v1/kkissta/u6dimj0htxzx9vreok5k'
